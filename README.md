@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohanadekar7
-- 👀 I’m interested in coding,projects etc
+- 👀 I’m interested in industry projects etc
 - 🌱 I’m currently learning in 3rd year & persuing BTech in Computer Engineering in VIIT.
 - 💞️ I’m looking to collaborate on Machine Learning.
 - 📫 How to reach me Email: rohan.22210182@viit.ac.in
